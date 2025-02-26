@@ -1,6 +1,6 @@
 ## Robert Carleton
 
-**Games Developer (Programmer/Amimator/Musician)**
+**Games Developer (Programmer/Animator/Musician)**
 
 I'm a Third Year Student attending ATU Sligo here in Ireland. Over the course of my study I have gained a lot of insights and skills to Games and Software Development, ranging from learning languages like C# and C++ to complex structures such as that of Data Structures and Algorithms. Before my course, I was an avid gamer playing a variety of games, both casual and competitive. I've been an avid researcher and experimented with Game Design for many years before I began my journey through college, roughly about 9 or 10 when I began my adventure into programming using Scratch, and later advanced to using Blender and Unity. Most recently, I've been using Unreal Engine and am currently using it as a Base Engine for my final year project!
 
